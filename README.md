@@ -4,3 +4,5 @@
 
 This software is used to management student information ,
 such as student grades , course , GPA , course enrollment and more 
+
+it is better to running on the Apache NetBeans
